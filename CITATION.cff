@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this framework in your research."
+
+title: "RMFA-JIWA Framework"
+authors:
+  - family-names: Hamat
+    given-names: Rohaini
+date-released: 2026-05-08
+version: 2.0
+license: "Proprietary Research License"
+keywords:
+  - relapse-prediction
+  - emotional-residue
+  - AI-governance
